@@ -5,17 +5,20 @@ class Configuration
 {
     public static function token()
     {
-        return "7004257245:AAEjQ_5lSh13NqNEBR01m3oB-nYko5wcVVo";
+        return "6846950109:AAF6-Yv-I20sRNr5ct_MgTIGVCFL2kYUJjY
+        ";
     }
     public static function admin ()
     {
-        return 348759045;
+        return 5732304366
+;
     } 
     public static function admins ()
     {
         return [
             self::admin(),
-            1831369371,
+            5732304366
+,
         ];
     }
 }
